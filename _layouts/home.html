@@ -1,0 +1,28 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% unless site.atom_feed.hide %}
+<a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}">
+  <i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}
+</a>
+{% endunless %}
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}

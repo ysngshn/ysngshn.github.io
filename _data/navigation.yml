@@ -1,0 +1,5 @@
+main:
+  - title: "CV"
+    url: /about/
+  - title: "Blog"
+    url: /posts/
