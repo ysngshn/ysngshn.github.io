@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Yuesong's Homepage"
+masthead_title: " "
 name: Yuesong Shen
 logo: assets/favicon/favicon.ico
 twitter_username: ysngshn
