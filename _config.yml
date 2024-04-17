@@ -64,20 +64,21 @@ author:
   name   : "Yuesong Shen"
   avatar : "/assets/images/profile-photo.jpg"
   bio    : >- 
+    <a href="https://upload.wikimedia.org/wikipedia/commons/8/87/Chinese_woodcut%3B_Daoist_internal_alchemy_%289%29_Wellcome_L0038979.jpg">
     <del title="This is a joke, or is it?">
     Deep learning alchemist<br>
     Bayesian sect<br>
     </del>
-    <br>
-    
+    </a>
     PhD student @ <a href="https://cvg.cit.tum.de">TUM CVG</a><br>
-    <br>
-    
     (firstname).(lastname)@tum.de
   links:
     - label: "CVG Page"
       icon: "fa-solid fa-fw fa-flask"
       url: "https://cvg.cit.tum.de/members/sheny"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/shen-yuesong-a46b0981"
     - label: "Google Scholar"
       icon: "fa-brands fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=apVTXosAAAAJ&hl=en"
@@ -100,6 +101,8 @@ defaults:
       comments: true
       share: true
       related: true
+      toc: true
+      toc_sticky: true
   # _pages
   - scope:
       path: "_pages"

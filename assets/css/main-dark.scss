@@ -1,8 +1,33 @@
 ---
-# In dark mode, used to replace: https://github.com/mmistakes/minimal-mistakes/blob/master/assets/css/main.scss
+# dark variant of custom css adjustments
+search: false
 ---
 
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin_dark | default: 'dark' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// make text font size smaller
+.page__content {
+  p,
+  li,
+  dl {
+    font-size: 0.9em;
+  }
+}
+
+// except for the toc on the right
+.toc {
+  p,
+  li,
+  dl {
+    font-size: 1em;
+  }
+}
+
+// avoid flashbomb image in dark mode
+// https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/#aa-dark-mode-images
+img {
+  filter: brightness(.8) contrast(1.2);
+}

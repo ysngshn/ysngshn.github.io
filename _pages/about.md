@@ -12,7 +12,7 @@ Before the more serious part, let me talk about my hobbies :smile:: I am a fan o
 - 2018 - now : PhD student at Technical University of Munich, Germany
 - 2016 - 2018: MSc Informatics at Technical University of Munich, Germany
 - 2013 - 2016: [Engineering degree](https://en.wikipedia.org/wiki/Dipl%C3%B4me_d%27Ing%C3%A9nieur) at École polytechnique, France
-- 2011 - 2013: [Preparatory class](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles) at Lycée Louis-le-Grand, France
+- 2011 - 2013: [Preparatory classes](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles) at Lycée Louis-le-Grand, France
 
 ## Work experience
 - May 2023 - Jun 2023: Visiting scholar at RIKEN Approximate Bayesian Inference team, Japan

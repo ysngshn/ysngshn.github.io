@@ -1,14 +1,13 @@
 ---
 title: "Journey to a homepage from scratch"
 excerpt_separator: "<!--more-->"
+last_modified_at: 2024-04-12
 categories:
   - Programming
 tags:
   - coding
   - web-dev
   - Jekyll
-toc: true
-toc_sticky: true
 ---
 
 Hffff, finally this website is up. What a journey!
@@ -32,7 +31,7 @@ Making this homepage has been an interesting project for me with many new things
 
 ### Programming prerequisites
 
-Before considering setting up a personal webpage, I think it is helpful to be somewhat familiar with the following programming/formatting languages:
+Before setting up a personal webpage, it helps to be familiar with the following programming/formatting languages:
 
 - **HTML** and **Markdown**: these are needed for creating content. 
   - Markdown provides convenient text formatting and is an easy learn. read through some simple guide [like this one][md-tutorial] and you should be fine.
@@ -101,7 +100,7 @@ The default MM theme does not support the dark theme, although it offers several
 
 Since major modern browsers and operating systems support setting the light/dark theme preference. I decided to simply follow this preference when specified. Adding a toggle and cookie to store this same user preference seems overkill.
 
-Fortunately, I can easily achieve my preferred approach [with this solution][ghi-dark].
+Fortunately, I can easily achieve my preferred approach [with this solution][ghi-dark]. Also, I decrease the brightness of images following [this guide][dark-image].
 
 #### - Upgrade Font Awesome
 
@@ -122,6 +121,7 @@ After some coding and content filling (check out [this cheat sheet][emoji-cheat]
 Until next time :wink:
 
 [//]: # (Link references:)
+[dark-image]: https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/#aa-dark-mode-images
 [emoji-cheat]: https://github.com/ikatyang/emoji-cheat-sheet/
 [fa]: https://fontawesome.com/
 [favicon-io]: https://favicon.io/
