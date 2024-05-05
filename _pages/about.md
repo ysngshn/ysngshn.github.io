@@ -63,4 +63,4 @@ Chinese (mother tongue), English (fluent), French (fluent), German (intermediate
 
 ### Softwares & frameworks
 
-PyTorch (contributor), Jax, LaTeX, OpenCV, Jekyll, Git/SVN, CATIA, image/audio/video editing, sound track mixing, Linux, office suite
+PyTorch (contributor), Jax, LaTeX, OpenCV, Jekyll, Git/SVN, CATIA, image/audio/video editing, soundtrack mixing, Linux, office suite
