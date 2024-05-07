@@ -40,6 +40,7 @@ Additionally, I have also supervised several individual student projects includi
 
 You can visit my [Google Scholar](https://scholar.google.com/citations?user=apVTXosAAAAJ&hl=en) for a list of my publications.
 
+- *Shen Y\**, Daheim N\*, Cong B, Nickl P, Marconi GM, Bazan C, Yokota R, Gurevych I, Cremers D, Khan ME, Möllenhoff T. Variational Learning is Effective for Large Deep Networks. In International Conference on Machine Learning (ICML). 2024 (To appear)
 - Koke C, Saroha A, *Shen Y*, Eisenberger M, Cremers D. ResolvNet: A Graph Convolutional Network with multi-scale Consistency. In NeurIPS Workshop: New Frontiers in Graph Learning. 2023
 - Tomani C\*, Waseda FK\*, *Shen Y*, Cremers D. Beyond in-domain scenarios: robust density-aware calibration. In International Conference on Machine Learning (ICML). 2023
 - Hsu HH\*, *Shen Y*\*, Tomani C, Cremers D. What Makes Graph Neural Networks Miscalibrated?. Advances in Neural Information Processing Systems (NeurIPS). 2022
