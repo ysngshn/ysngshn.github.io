@@ -40,14 +40,14 @@ Additionally, I have also supervised several individual student projects includi
 
 You can visit my [Google Scholar](https://scholar.google.com/citations?user=apVTXosAAAAJ&hl=en) for a list of my publications.
 
-- *Shen Y\**, Daheim N\*, Cong B, Nickl P, Marconi GM, Bazan C, Yokota R, Gurevych I, Cremers D, Khan ME, Möllenhoff T. Variational Learning is Effective for Large Deep Networks. In International Conference on Machine Learning (ICML). 2024 (To appear)
-- Koke C, Saroha A, *Shen Y*, Eisenberger M, Cremers D. ResolvNet: A Graph Convolutional Network with multi-scale Consistency. In NeurIPS Workshop: New Frontiers in Graph Learning. 2023
-- Tomani C\*, Waseda FK\*, *Shen Y*, Cremers D. Beyond in-domain scenarios: robust density-aware calibration. In International Conference on Machine Learning (ICML). 2023
-- Hsu HH\*, *Shen Y*\*, Tomani C, Cremers D. What Makes Graph Neural Networks Miscalibrated?. Advances in Neural Information Processing Systems (NeurIPS). 2022
-- *Shen Y*, Cremers D. Deep Combinatorial Aggregation. Advances in Neural Information Processing Systems (NeurIPS). 2022
-- Hsu HH\*, *Shen Y*\*, Cremers D. A graph is more than its nodes: towards structured uncertainty-aware learning on graphs. In NeurIPS Workshop: New Frontiers in Graph Learning. 2022
-- Wang Y, *Shen Y*, Cremers D. Explicit pairwise factorized graph neural network for semi-supervised node classification. In Uncertainty in Artificial Intelligence (UAI). 2021 
-- Yan J, Peng Z, Yin H, Wang J, Wang X, *Shen Y*, Stechele W, Cremers D. Trajectory prediction for intelligent vehicles using spatial‐attention mechanism. IET Intelligent Transport Systems. 2020
+- *Shen Y\**, Daheim N\*, Cong B, Nickl P, Marconi GM, Bazan C, Yokota R, Gurevych I, Cremers D, Khan ME, Möllenhoff T. "Variational Learning is Effective for Large Deep Networks". In International Conference on Machine Learning (ICML). 2024 (To appear)
+- Koke C, Saroha A, *Shen Y*, Eisenberger M, Cremers D. "ResolvNet: A Graph Convolutional Network with multi-scale Consistency". In NeurIPS Workshop: New Frontiers in Graph Learning. 2023
+- Tomani C\*, Waseda FK\*, *Shen Y*, Cremers D. "Beyond In-Domain Scenarios: Robust Density-Aware Calibration". In International Conference on Machine Learning (ICML). 2023
+- Hsu HH\*, *Shen Y*\*, Tomani C, Cremers D. "What Makes Graph Neural Networks Miscalibrated?". Advances in Neural Information Processing Systems (NeurIPS). 2022
+- *Shen Y*, Cremers D. "Deep Combinatorial Aggregation". Advances in Neural Information Processing Systems (NeurIPS). 2022
+- Hsu HH\*, *Shen Y*\*, Cremers D. "A Graph Is More Than Its Nodes: Towards Structured Uncertainty-Aware Learning on Graphs". In NeurIPS Workshop: New Frontiers in Graph Learning. 2022
+- Wang Y, *Shen Y*, Cremers D. "Explicit Pairwise Factorized Graph Neural Network for Semi-Supervised Node Classification". In Uncertainty in Artificial Intelligence (UAI). 2021 
+- Yan J, Peng Z, Yin H, Wang J, Wang X, *Shen Y*, Stechele W, Cremers D. "Trajectory prediction for intelligent vehicles using spatial‐attention mechanism". IET Intelligent Transport Systems. 2020
 - *Shen Y*, Demarty CH, Duong NQ. Deep learning for multimodal-based video interestingness prediction. In 2017 IEEE International Conference on Multimedia and Expo (ICME). 2017
 
 (`*` denotes equal contribution)
