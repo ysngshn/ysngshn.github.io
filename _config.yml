@@ -30,7 +30,7 @@ remote_theme: ysngshn/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Hongkong # Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -70,12 +70,12 @@ author:
     Bayesian sect<br>
     </del>
     </a>
-    PhD student @ <a href="https://cvg.cit.tum.de">TUM CVG</a><br>
-    (firstname).(lastname)@tum.de
+    Researcher @ <a href="https://career.huawei.com/reccampportal/hk/portal/huaweilife.html">Huawei HKRC</a><br>
+   (lastname).(firstname)@huawei.com
   links:
-    - label: "CVG Page"
-      icon: "fa-solid fa-fw fa-flask"
-      url: "https://cvg.cit.tum.de/members/sheny"
+    # - label: "CVG Page"
+    #   icon: "fa-solid fa-fw fa-flask"
+    #   url: "https://cvg.cit.tum.de/members/sheny"
     - label: "LinkedIn"
       icon: "fa-brands fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/shen-yuesong-a46b0981"
